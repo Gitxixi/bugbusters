@@ -1,0 +1,18 @@
+total 304
+-rw-r--r-- 1 navieh navieh     14 Mar 14 09:56 bar
+drwxr-xr-x 3 navieh navieh   4096 Mar 15 18:47 bin
+-rw-r--r-- 1 navieh navieh    319 Mar 14 13:04 cut
+drwxr-xr-x 5 navieh navieh   4096 Feb  7 23:45 doc
+-rw-r--r-- 1 navieh navieh      4 Mar 14 09:22 foo
+-rw-r--r-- 1 navieh navieh 249694 Mar 16 20:42 integration_test_suite.pdf
+-rw-r--r-- 1 navieh navieh     34 Mar 16 03:24 keith
+drwxr-xr-x 2 navieh navieh   4096 Jan 22 12:54 lib
+-rw-r--r-- 1 navieh navieh      0 Mar 16 21:07 lsout
+-rw-r--r-- 1 navieh navieh     40 Mar 16 20:08 p1
+-rw-r--r-- 1 navieh navieh     36 Mar 16 20:01 p2
+-rw-r--r-- 1 navieh navieh     60 Jan 22 10:59 README.md
+-rw-r--r-- 1 navieh navieh    432 Jan 22 12:54 Shell.eml
+-rw-r--r-- 1 navieh navieh    131 Jan 22 10:59 Shell.iml
+drwxr-xr-x 3 navieh navieh   4096 Jan 22 10:59 src
+drwxr-xr-x 3 navieh navieh   4096 Jan 22 10:59 test
+drwxr-xr-x 2 navieh navieh   4096 Mar 16 20:41 testPaste
